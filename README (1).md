@@ -1,0 +1,1 @@
+Please see the [v4.10 section of the changelog](https://pyinstaller.readthedocs.io/en/v4.10/CHANGES.html#id1) for a list of the changes since v4.9.
